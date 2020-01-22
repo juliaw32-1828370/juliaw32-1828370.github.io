@@ -1,0 +1,11 @@
+#floatedIcecream { 
+    float: right;
+    border-radius:30px;
+    background: rgb(173, 33, 75);
+    padding: 20px;
+    width: 200px;
+    height: 250px;
+}
+#IcecreamImg {
+    width: 150px;
+}
